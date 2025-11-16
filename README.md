@@ -1,4 +1,4 @@
-# FaceHive - Automatic Photo Grouping 📸
+# FaceHive - Google Photos like automatic photo grouping 📸
 
 Automatically group photos by detecting and clustering faces. No manual tagging, no metadata dependencies—just raw computer vision and some math.
 
